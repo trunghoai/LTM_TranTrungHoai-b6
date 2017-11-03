@@ -1,0 +1,5 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Client\bin\Debug\Bai1-Client.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Client\bin\Debug\Bai1-Client.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Client\bin\Debug\Bai1-Client.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Client\obj\Debug\Bai1-Client.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Client\obj\Debug\Bai1-Client.pdb

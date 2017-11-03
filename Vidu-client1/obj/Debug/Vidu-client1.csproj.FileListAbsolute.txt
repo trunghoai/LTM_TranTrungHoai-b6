@@ -1,0 +1,5 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu-client1\bin\Debug\Vidu-client1.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu-client1\bin\Debug\Vidu-client1.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu-client1\bin\Debug\Vidu-client1.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu-client1\obj\Debug\Vidu-client1.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu-client1\obj\Debug\Vidu-client1.pdb

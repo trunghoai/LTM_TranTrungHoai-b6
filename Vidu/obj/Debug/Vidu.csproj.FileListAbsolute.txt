@@ -1,0 +1,6 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu\bin\Debug\Vidu.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu\bin\Debug\Vidu.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu\bin\Debug\Vidu.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu\obj\Debug\Vidu.csprojResolveAssemblyReference.cache
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu\obj\Debug\Vidu.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Vidu\obj\Debug\Vidu.pdb

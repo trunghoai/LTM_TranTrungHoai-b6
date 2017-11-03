@@ -1,0 +1,6 @@
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Server\bin\Debug\Bai1-Server.exe.config
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Server\bin\Debug\Bai1-Server.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Server\bin\Debug\Bai1-Server.pdb
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Server\obj\Debug\Bai1-Server.csprojResolveAssemblyReference.cache
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Server\obj\Debug\Bai1-Server.exe
+C:\Users\Whis\Desktop\LTM\LTM_Thuchanh-b6\Bai1-Server\obj\Debug\Bai1-Server.pdb
